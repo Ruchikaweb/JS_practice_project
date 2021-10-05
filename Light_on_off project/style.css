@@ -1,0 +1,26 @@
+.main_heading{
+    background-color: cadetblue;
+}
+
+.maindiv{
+    text-align: center;
+    margin-top: 18%;
+}
+
+#myimage{
+    width: 15%;
+    height: 15%;
+}
+
+#light_btn{
+    background: chocolate;
+    color: cornsilk;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 3px;
+    transition: 400ms;
+    text-decoration: none;
+    padding: 10px;
+    z-index: 100000;
+}
